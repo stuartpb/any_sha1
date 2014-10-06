@@ -1,0 +1,22 @@
+{
+  "name": "any_sha1",
+  "version": "0.0.0",
+  "description": "JavaScript functions for abstracting SHA1 implementations",
+  "main": "any_sha1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stuartpb/any_sha1.git"
+  },
+  "keywords": [
+    "sha1"
+  ],
+  "author": "Stuart P. Bentley <stuart@testtrack4.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stuartpb/any_sha1/issues"
+  },
+  "homepage": "https://github.com/stuartpb/any_sha1"
+}
