@@ -1,6 +1,6 @@
 {
   "name": "any_sha1",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "JavaScript functions for abstracting SHA1 implementations",
   "main": "any_sha1.js",
   "scripts": {
